@@ -16,6 +16,7 @@ Airflow Tasks:
 <li>transform_weather_data(): Parses and restructures the relevant data fields</li>
 <li>load_weather_data(): Inserts the transformed data into a PostgreSQL table</li>
 </ul>
+
 ## Graf
 
 ![1](https://github.com/user-attachments/assets/b2a1f615-803c-48c6-9a09-d3a8f73e78d5)
